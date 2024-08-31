@@ -1,0 +1,6 @@
+venus;Planeta
+pizza;Comida
+futebol;Esporte
+cachoeira;Tem na natureza
+campina grande;Cidade
+redes de computadores;Curso
